@@ -18,7 +18,6 @@
 	</developers>
 	<scm>
 		<connection>scm:git:git@github.com:julianopontes/selenium-archetype.git</connection>
-	  <tag>selenium-archetype-1.0.0</tag>
   </scm>
 	<ciManagement>
 		<system>Jenkins</system>
