@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>selenium-archetype</groupId>
 	<artifactId>selenium-archetype</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.1-SNAPSHOT</version>
 	<name>Archetype - Selenium Java Project</name>
 	<developers>
 		<developer>
