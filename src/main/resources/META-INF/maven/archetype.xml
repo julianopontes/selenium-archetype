@@ -1,0 +1,14 @@
+<archetype>
+	<id>selenium-archetype</id>
+	<sources>
+		<source>src/main/java/App.java</source>
+	</sources>
+	<testSources>
+		<source>src/test/java/AppTest.java</source>
+		<source>src/test/java/test/BaseTest.java</source>
+	</testSources>
+	<testResources>
+		<resource>src/test/resources/automacao-test.xml</resource>
+		<resource>src/test/resources/phantomjs-remote-driver.xml</resource>
+	</testResources>
+</archetype>
