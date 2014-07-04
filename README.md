@@ -1,4 +1,4 @@
-##Archetype for selenium tests with PhantomJS
+##Archetype for Selenium test project with PhantomJS :)
 
 ###Setup instructions:
 
@@ -13,6 +13,7 @@
     mvn archetype:generate -DarchetypeGroupId=selenium-archetype -DarchetypeArtifactId=selenium-archetype -DarchetypeVersion=1.0.0
 
 
+```
+```
 
-
-###Enjoy :)
+###Enjoy :tophat:
