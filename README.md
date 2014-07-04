@@ -10,7 +10,8 @@
 
 3 - Generate the project:
 
-    mvn archetype:generate -DarchetypeGroupId=selenium-archetype -DarchetypeArtifactId=selenium-archetype -DarchetypeVersion=1.0.0
+    mvn archetype:generate -DarchetypeGroupId=selenium-archetype -DarchetypeArtifactId=selenium-archetype
+    -DarchetypeVersion=1.0.0
 
 
 ```
