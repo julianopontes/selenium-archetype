@@ -1,1 +1,3 @@
-Archetype for selenium tests with PhantomJS :)
+#Archetype for selenium tests with PhantomJS :)
+
+
