@@ -16,7 +16,7 @@
     -DarchetypeVersion=1.0.1-SNAPSHOT
 
 
-```
-```
+
+
 
 ###Enjoy :tophat:
