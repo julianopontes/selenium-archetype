@@ -1,9 +1,8 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>selenium-archetype</groupId>
 	<artifactId>selenium-archetype</artifactId>
-	<version>1.0.1-SNAPSHOT</version>
+	<version>1.0.1</version>
 	<name>Archetype - Selenium Java Project</name>
 	<developers>
 		<developer>
@@ -19,7 +18,8 @@
 	</developers>
 	<scm>
 		<developerConnection>scm:git:git@github.com:julianopontes/selenium-archetype.git</developerConnection>
-	</scm>
+	  <tag>selenium-archetype-1.0.1</tag>
+  </scm>
 	<ciManagement>
 		<system>Jenkins</system>
 		<url>http://192.168.16.110:8080/deploy</url>
