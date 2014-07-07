@@ -13,7 +13,7 @@
     mvn archetype:generate
     -DarchetypeGroupId=selenium-archetype 
     -DarchetypeArtifactId=selenium-archetype
-    -DarchetypeVersion=1.0.1-SNAPSHOT
+    -DarchetypeVersion=1.0.2-SNAPSHOT
 
 
 
