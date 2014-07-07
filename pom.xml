@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>selenium-archetype</groupId>
 	<artifactId>selenium-archetype</artifactId>
-	<version>1.0.1</version>
+	<version>1.0.2-SNAPSHOT</version>
 	<name>Archetype - Selenium Java Project</name>
 	<developers>
 		<developer>
@@ -18,7 +18,7 @@
 	</developers>
 	<scm>
 		<developerConnection>scm:git:git@github.com:julianopontes/selenium-archetype.git</developerConnection>
-	  <tag>selenium-archetype-1.0.1</tag>
+	  <tag>HEAD</tag>
   </scm>
 	<ciManagement>
 		<system>Jenkins</system>
